@@ -17,6 +17,7 @@
     ],
     "rules": {
       "quotes": [2, "double"],
-      "indent": "off"
+      "indent": "off",
+      "import/extensions": "off"
     }
 }
